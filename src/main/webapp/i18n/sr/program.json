@@ -1,0 +1,26 @@
+{
+    "kurseviApp": {
+        "program" : {
+            "home": {
+                "title": "Programs",
+                "createLabel": "Kreiraj novi Program",
+                "createOrEditLabel": "Kreirajte ili izmenite Program"
+            },
+            "created": "Kreiran je novi Program pod nazivom {{ param }}",
+            "updated": "Program pod nazivom {{ param }} je ažuriran",
+            "deleted": "Program pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Program pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Program"
+            },
+            "programName": "Program Name",
+            "programDescription": "Program Description",
+            "programPrice": "Program Price",
+            "resources": "Resources",
+            "courses": "Courses",
+            "disciplines": "Disciplines"
+        }
+    }
+}

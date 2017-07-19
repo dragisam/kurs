@@ -1,0 +1,30 @@
+{
+    "kurseviApp": {
+        "resource" : {
+            "home": {
+                "title": "Resources",
+                "createLabel": "Kreiraj novi Resource",
+                "createOrEditLabel": "Kreirajte ili izmenite Resource"
+            },
+            "created": "Kreiran je novi Resource pod nazivom {{ param }}",
+            "updated": "Resource pod nazivom {{ param }} je ažuriran",
+            "deleted": "Resource pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Resource pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Resource"
+            },
+            "resourceName": "Resource Name",
+            "resourceDescription": "Resource Description",
+            "resourceURL": "Resource URL",
+            "resourcePreviewImage": "Resource Preview Image",
+            "resourceType": "Resource Type",
+            "weight": "Weight",
+            "discipline": "Discipline",
+            "program": "Program",
+            "course": "Course",
+            "lesson": "Lesson"
+        }
+    }
+}

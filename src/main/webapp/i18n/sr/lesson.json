@@ -1,0 +1,25 @@
+{
+    "kurseviApp": {
+        "lesson" : {
+            "home": {
+                "title": "Lessons",
+                "createLabel": "Kreiraj novi Lesson",
+                "createOrEditLabel": "Kreirajte ili izmenite Lesson"
+            },
+            "created": "Kreiran je novi Lesson pod nazivom {{ param }}",
+            "updated": "Lesson pod nazivom {{ param }} je ažuriran",
+            "deleted": "Lesson pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Lesson pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Lesson"
+            },
+            "lessonTitle": "Lesson Title",
+            "lessonDescription": "Lesson Description",
+            "language": "Language",
+            "resources": "Resources",
+            "courses": "Courses"
+        }
+    }
+}

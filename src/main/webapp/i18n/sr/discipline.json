@@ -1,0 +1,25 @@
+{
+    "kurseviApp": {
+        "discipline" : {
+            "home": {
+                "title": "Disciplines",
+                "createLabel": "Kreiraj novi Discipline",
+                "createOrEditLabel": "Kreirajte ili izmenite Discipline"
+            },
+            "created": "Kreiran je novi Discipline pod nazivom {{ param }}",
+            "updated": "Discipline pod nazivom {{ param }} je ažuriran",
+            "deleted": "Discipline pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Discipline pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Discipline"
+            },
+            "disciplineName": "Discipline Name",
+            "disciplineDescription": "Discipline Description",
+            "disciplinePrice": "Discipline Price",
+            "resources": "Resources",
+            "programs": "Programs"
+        }
+    }
+}
